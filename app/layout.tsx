@@ -13,21 +13,9 @@ export const metadata: Metadata = {
   description: 'Smartclues Technologies LLP - Building secure, intelligent solutions in Cyber Security, Digital Forensics, IT Services, and U.S. Healthcare Revenue Cycle Management since 2020.',
   metadataBase: new URL('https://smartcluestech.com'),
   icons: {
-    icon: [
-      {
-        url: '/logo.jpeg',
-        media: '(prefers-color-scheme: light)',
-      },
-      {
-        url: '/logo.jpeg',
-        media: '(prefers-color-scheme: dark)',
-      },
-      {
-        url: '/logo.jpeg',
-        type: 'image/jpeg',
-      },
-    ],
-    apple: '/apple-icon.png',
+    icon: '/logo.jpeg',
+    shortcut: '/logo.jpeg',
+    apple: '/logo.jpeg',
   },
   openGraph: {
     title: 'Smartclues Technologies - Secure IT, Cyber Defense & Healthcare RCM',
