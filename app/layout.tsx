@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     apple: '/logo.jpeg',
   },
   openGraph: {
-    title: 'Smartclues Technologies - Secure IT, Cyber Defense & Healthcare RCM',
+    title: 'Smartclues Technologies',
     description: 'Smartclues Technologies LLP - Building secure, intelligent solutions in Cyber Security, Digital Forensics, IT Services, and U.S. Healthcare Revenue Cycle Management since 2020.',
     url: 'https://smartcluestech.com',
     siteName: 'Smartclues Technologies',
