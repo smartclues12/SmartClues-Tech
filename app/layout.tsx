@@ -9,9 +9,9 @@ const _montserrat = Montserrat({ subsets: ["latin"] });
 const _openSans = Open_Sans({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Smartclues',
-  description: 'A stunning hero section template with animated floating lines background',
-  generator: 'v0.app',
+  title: 'Smartclues Technologies',
+  description: 'Smartclues Technologies LLP - Building secure, intelligent solutions in Cyber Security, Digital Forensics, IT Services, and U.S. Healthcare Revenue Cycle Management since 2020.',
+  metadataBase: new URL('https://smartcluestech.com'),
   icons: {
     icon: [
       {
@@ -24,10 +24,32 @@ export const metadata: Metadata = {
       },
       {
         url: '/logo.jpeg',
-        type: 'image/svg+xml',
+        type: 'image/jpeg',
       },
     ],
     apple: '/apple-icon.png',
+  },
+  openGraph: {
+    title: 'Smartclues Technologies - Secure IT, Cyber Defense & Healthcare RCM',
+    description: 'Smartclues Technologies LLP - Building secure, intelligent solutions in Cyber Security, Digital Forensics, IT Services, and U.S. Healthcare Revenue Cycle Management since 2020.',
+    url: 'https://smartcluestech.com',
+    siteName: 'Smartclues Technologies',
+    images: [
+      {
+        url: '/logo.jpeg',
+        width: 1200,
+        height: 630,
+        alt: 'Smartclues Technologies Logo',
+      },
+    ],
+    locale: 'en_US',
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Smartclues Technologies - Secure IT, Cyber Defense & Healthcare RCM',
+    description: 'Smartclues Technologies LLP - Building secure, intelligent solutions in Cyber Security, Digital Forensics, IT Services, and U.S. Healthcare Revenue Cycle Management since 2020.',
+    images: ['/logo.jpeg'],
   },
 }
 
