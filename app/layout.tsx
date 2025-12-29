@@ -22,6 +22,7 @@ export const metadata: Metadata = {
       { url: '/logo2026.jpeg', sizes: '180x180', type: 'image/jpeg' },
     ],
   },
+  manifest: '/manifest.webmanifest',
   openGraph: {
     title: 'Smartclues Technologies',
     description: 'Smartclues Technologies LLP - Building secure, intelligent solutions in Cyber Security, Digital Forensics, IT Services, and U.S. Healthcare Revenue Cycle Management since 2020.',
