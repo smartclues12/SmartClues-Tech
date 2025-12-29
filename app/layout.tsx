@@ -14,12 +14,12 @@ export const metadata: Metadata = {
   metadataBase: new URL('https://smartcluestech.com'),
   icons: {
     icon: [
-      { url: '/logo2.png', sizes: '32x32', type: 'image/png' },
-      { url: '/logo2.png', sizes: '192x192', type: 'image/png' },
+      { url: '/logo2026.jpeg', sizes: '32x32', type: 'image/png' },
+      { url: '/logo2026.jpeg', sizes: '192x192', type: 'image/png' },
     ],
-    shortcut: ['/logo2.png'],
+    shortcut: ['/logo2026.jpeg'],
     apple: [
-      { url: '/logo2.png', sizes: '180x180', type: 'image/png' },
+      { url: '/logo2026.jpeg', sizes: '180x180', type: 'image/png' },
     ],
   },
   openGraph: {
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     siteName: 'Smartclues Technologies',
     images: [
       {
-        url: '/logo2.png',
+        url: '/logo2026.jpeg',
         width: 1200,
         height: 630,
         alt: 'Smartclues Technologies Logo',
@@ -42,7 +42,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Smartclues Technologies ',
     description: 'Smartclues Technologies LLP - Building secure, intelligent solutions in Cyber Security, Digital Forensics, IT Services, and U.S. Healthcare Revenue Cycle Management since 2020.',
-    images: ['/logo2.png'],
+    images: ['/logo2026.jpeg'],
   },
 }
 
