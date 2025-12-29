@@ -15,11 +15,11 @@ export const metadata: Metadata = {
   icons: {
     icon: [
       { url: '/favicon.png', sizes: '32x32', type: 'image/png' },
-      { url: '/icon.png', sizes: '192x192', type: 'image/png' },
+      { url: '/logo2.png', sizes: '192x192', type: 'image/png' },
     ],
     shortcut: ['/favicon.png'],
     apple: [
-      { url: '/icon.png', sizes: '180x180', type: 'image/png' },
+      { url: '/logo2.png', sizes: '180x180', type: 'image/png' },
     ],
   },
   openGraph: {
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     siteName: 'Smartclues Technologies',
     images: [
       {
-        url: '/logo.jpeg',
+        url: '/logo2.png',
         width: 1200,
         height: 630,
         alt: 'Smartclues Technologies Logo',
@@ -42,7 +42,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Smartclues Technologies ',
     description: 'Smartclues Technologies LLP - Building secure, intelligent solutions in Cyber Security, Digital Forensics, IT Services, and U.S. Healthcare Revenue Cycle Management since 2020.',
-    images: ['/logo.jpeg'],
+    images: ['/logo2.png'],
   },
 }
 
