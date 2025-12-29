@@ -14,12 +14,12 @@ export const metadata: Metadata = {
   metadataBase: new URL('https://smartcluestech.com'),
   icons: {
     icon: [
-      { url: '/logo2026.jpeg', sizes: '32x32', type: 'image/png' },
-      { url: '/logo2026.jpeg', sizes: '192x192', type: 'image/png' },
+      { url: '/logo2026.jpeg', sizes: '32x32', type: 'image/jpeg' },
+      { url: '/logo2026.jpeg', sizes: '192x192', type: 'image/jpeg' },
     ],
     shortcut: ['/logo2026.jpeg'],
     apple: [
-      { url: '/logo2026.jpeg', sizes: '180x180', type: 'image/png' },
+      { url: '/logo2026.jpeg', sizes: '180x180', type: 'image/jpeg' },
     ],
   },
   openGraph: {
