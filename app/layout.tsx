@@ -14,10 +14,10 @@ export const metadata: Metadata = {
   metadataBase: new URL('https://smartcluestech.com'),
   icons: {
     icon: [
-      { url: '/favicon.png', sizes: '32x32', type: 'image/png' },
+      { url: '/logo2.png', sizes: '32x32', type: 'image/png' },
       { url: '/logo2.png', sizes: '192x192', type: 'image/png' },
     ],
-    shortcut: ['/favicon.png'],
+    shortcut: ['/logo2.png'],
     apple: [
       { url: '/logo2.png', sizes: '180x180', type: 'image/png' },
     ],
